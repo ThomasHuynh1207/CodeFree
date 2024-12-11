@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DoAnGame\\Prototype 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|d:\\doangame\\prototype 1\\assets\\course library\\scripts\\gamedefault\\tankshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\gamedefault\\tankshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|D:\\DoAnGame\\Prototype 1\\assets\\course library\\scripts\\gamedefault\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\gamedefault\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|D:\\DoAnGame\\Prototype 1\\assets\\course library\\scripts\\gamedefault\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\gamedefault\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|D:\\DoAnGame\\Prototype 1\\assets\\course library\\scripts\\gamedefault\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\gamedefault\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|d:\\doangame\\prototype 1\\assets\\course library\\scripts\\gamedefault\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\gamedefault\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|d:\\doangame\\prototype 1\\assets\\course library\\scripts\\gamedefault\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\gamedefault\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|D:\\DoAnGame\\Prototype 1\\assets\\course library\\scripts\\game2player\\gamemanager2player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\game2player\\gamemanager2player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|D:\\DoAnGame\\Prototype 1\\assets\\course library\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|D:\\DoAnGame\\Prototype 1\\assets\\course library\\scripts\\game2player\\checkpoint2player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\game2player\\checkpoint2player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\GameDefault\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\GameDefault\\PlayerController.cs",
+              "ToolTip": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\GameDefault\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Course Library\\Scripts\\GameDefault\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:57:03.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\GameDefault\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\GameDefault\\FollowPlayer.cs",
+              "ToolTip": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\GameDefault\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\Course Library\\Scripts\\GameDefault\\FollowPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:38:09.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Target.cs",
+              "DocumentMoniker": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\GameDefault\\Target.cs",
+              "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\GameDefault\\Target.cs",
+              "ToolTip": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\GameDefault\\Target.cs",
+              "RelativeToolTip": "Assets\\Course Library\\Scripts\\GameDefault\\Target.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:19:46.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TankShooting.cs",
+              "DocumentMoniker": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\GameDefault\\TankShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\GameDefault\\TankShooting.cs",
+              "ToolTip": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\GameDefault\\TankShooting.cs",
+              "RelativeToolTip": "Assets\\Course Library\\Scripts\\GameDefault\\TankShooting.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAuwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:16:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckPoint.cs",
+              "DocumentMoniker": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\GameDefault\\CheckPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\GameDefault\\CheckPoint.cs",
+              "ToolTip": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\GameDefault\\CheckPoint.cs",
+              "RelativeToolTip": "Assets\\Course Library\\Scripts\\GameDefault\\CheckPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:15:00.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\GameDefault\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\GameDefault\\GameManager.cs",
+              "ToolTip": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\GameDefault\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Course Library\\Scripts\\GameDefault\\GameManager.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAuwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:42:16.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Course Library\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:58:22.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckPoint2Player.cs",
+              "DocumentMoniker": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\Game2Player\\CheckPoint2Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\Game2Player\\CheckPoint2Player.cs",
+              "ToolTip": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\Game2Player\\CheckPoint2Player.cs",
+              "RelativeToolTip": "Assets\\Course Library\\Scripts\\Game2Player\\CheckPoint2Player.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:36:21.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager2Player.cs",
+              "DocumentMoniker": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\Game2Player\\GameManager2Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\Game2Player\\GameManager2Player.cs",
+              "ToolTip": "D:\\DoAnGame\\Prototype 1\\Assets\\Course Library\\Scripts\\Game2Player\\GameManager2Player.cs",
+              "RelativeToolTip": "Assets\\Course Library\\Scripts\\Game2Player\\GameManager2Player.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAmwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:29:49.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
